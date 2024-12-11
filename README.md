@@ -1,7 +1,7 @@
 Addressbook Tutorial
 ====================
 Checking the webhook
-Checking email notifications using Jenkins
+Checking email notifications for wrong build using Jenkins
 New line to understand the git build peridically Jenkins job (Cronjob).
 New line to understand the Poll SCM
 This tutorial teaches you some of the basic concepts in [Vaadin Framework](https://vaadin.com). It is meant to be
