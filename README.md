@@ -1,7 +1,7 @@
 Addressbook Tutorial
 ====================
 Checking the webhook.
-Updated to trigger the jenkins project
+Updated to trigger the jenkins project.
 Executing the task on the jenkins slave server
 Checking email notifications for wrong build using Jenkins
 New line to understand the git build peridically Jenkins job (Cronjob).
